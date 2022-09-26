@@ -63,4 +63,4 @@ int main()
 > Round Robin scheduling technique in games - Basically each player matches up with other players at least once
 > Audio/Video Streaming - Example- Music Playlist
 > Circular Escalators
-> App Overview in phones -  The operating software keeps on iterating over these applications. */
+> App Overview in phones -  The operating software keeps on iterating over running applications. */
